@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: red;
+  -webkit-transform: translate(45deg);
+  transform: translate(45deg);
+}
