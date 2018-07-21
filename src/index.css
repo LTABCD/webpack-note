@@ -1,0 +1,17 @@
+*{
+	margin:0;
+	padding:0;
+}
+body{
+	background:red;
+	transform:translate(45deg);
+}
+.w{
+	color:#fff;
+}
+.h{
+	color:#fff;
+}
+.a{
+	color:#fff;
+}
